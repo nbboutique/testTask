@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/mahafonova/Desktop/GL/untitled/chat_message.cpp
+chat_message.hpp
+C:/Users/mahafonova/Desktop/GL/untitled/chat_message.hpp
+iostream
+-
+string
+-
+
+C:/Users/mahafonova/Desktop/GL/untitled/chat_message.hpp
+cstdio
+-
+cstdlib
+-
+cstring
+-
+

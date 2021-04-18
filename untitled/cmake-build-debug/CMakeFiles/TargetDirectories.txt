@@ -1,0 +1,5 @@
+C:/Users/mahafonova/Desktop/GL/untitled/cmake-build-debug/CMakeFiles/chat_client.dir
+C:/Users/mahafonova/Desktop/GL/untitled/cmake-build-debug/CMakeFiles/chat_message.dir
+C:/Users/mahafonova/Desktop/GL/untitled/cmake-build-debug/CMakeFiles/chat_server.dir
+C:/Users/mahafonova/Desktop/GL/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mahafonova/Desktop/GL/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
